@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentApplication.API", "DotNetCoreOrnekProje\StudentApplication.API.csproj", "{8DD33DD7-38AA-4517-9994-F7403C0267A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentApplication.Web", "StudentApplication.Web\StudentApplication.Web.csproj", "{EFCD871E-2EA1-4848-BDCE-A56E406D1857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD33DD7-38AA-4517-9994-F7403C0267A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD33DD7-38AA-4517-9994-F7403C0267A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD33DD7-38AA-4517-9994-F7403C0267A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD33DD7-38AA-4517-9994-F7403C0267A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCD871E-2EA1-4848-BDCE-A56E406D1857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCD871E-2EA1-4848-BDCE-A56E406D1857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCD871E-2EA1-4848-BDCE-A56E406D1857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCD871E-2EA1-4848-BDCE-A56E406D1857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD1BC06-BA6B-4442-92D1-C4781AD12B95}
+	EndGlobalSection
+EndGlobal

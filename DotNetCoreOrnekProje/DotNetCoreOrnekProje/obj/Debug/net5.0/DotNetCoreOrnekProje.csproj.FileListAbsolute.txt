@@ -1,0 +1,8 @@
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.csproj.AssemblyReference.cache
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.AssemblyInfoInputs.cache
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.AssemblyInfo.cs
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.csproj.CoreCompileInputs.cache
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.RazorAssemblyInfo.cache
+C:\Users\veri2\Desktop\halil ibrahim\DotNetCoreOrnekProje\DotNetCoreOrnekProje\obj\Debug\net5.0\DotNetCoreOrnekProje.RazorAssemblyInfo.cs
